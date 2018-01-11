@@ -1,0 +1,1 @@
+Smart contract with Solidity in Ethereum Rinkeby network via Infura API.
